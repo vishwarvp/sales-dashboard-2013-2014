@@ -30,6 +30,7 @@ This project focuses on analyzing sales performance data for the years 2013 and 
 - `Sales_Dashboard_(2013-2014).xlsx` – Excel Dashboard & Analysis
 - `Sales Performance Report.pptx` – Project Presentation
 - `README.md` – Project Documentation
+- `Sales_Dashboard_image.jpg` – Excel Dashboard image
 
 
 🔹 Key Learnings
